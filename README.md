@@ -1,2 +1,2 @@
 # flexbox-review
-Template for Flexbox Review Lab Exercise
+Template for Flexbox Workout Lab Exercise
