@@ -32,7 +32,7 @@ Flexbox Workout Instruction
 - Hand In:
 There are two ways to hand in this lab exercise.
 1.
-Push your work to your own public repository.
+Push your work to your own public repository. Note: Do not include screenshots folder.
 Write the link to the repo on a text file and submit it to Brightspace. If you could also write the link to the comment section of the assignment submission, that’s appreciated. It’s easier for us to click that link. You still need to submit the text file, though, as Brightspace requires a file to accept a submission.
 
 2.
