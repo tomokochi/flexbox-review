@@ -2,7 +2,7 @@
 Flexbox Workout Instruction
 
 - Goals: To master CSS Flexbox, period.
-  In order to attain this goal, you will write CSS to accompany the index.html file provided so that the page will look just like the screenshots I have provided in the starter files folder.
+  In order to attain this goal, you will write CSS to accompany the index.html file provided so that the page will look just like the screenshots I have provided in Brightspace assignment folder.
 
 - Conditions:
   Do not touch the HTML file. Leave it as is.
@@ -20,7 +20,7 @@ Flexbox Workout Instruction
   This option is recommended for all developers, although there will be no deduction for choosing the second option.
   The intention is to give you more exposure to Git and GitHub.
 
-  In the starter files, I've included an HTML file as well as screenshots of what the site should look like when it's done in 1)extra-small, 2)small, 3)medium, 4)large and 5)extra-large browser width. 
+  In the starter files, I've included an HTML file. Also you can get screenshots of what the site should look like when it's done in 1)extra-small, 2)small, 3)medium, 4)large and 5)extra-large browser width from Brightspace assignment folder. 
   Extra-small, small and medium screenshots have two parts showing the top and the bottom of the page supposing you can easily guess how the middle part looks like.
   Open the folder on VS Code or an IDE of your choice including Cloud9.
 
